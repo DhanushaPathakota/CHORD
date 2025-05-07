@@ -1,8 +1,5 @@
 CHORD DHT Implementation
 
-
-** I have Implemenented all functions that were expected to be completed according to the Project Description and Grading Rubric"
-
 1. To Compile and Run, use command:
    g++ -o chord.exe Main.cpp Helpers.cpp Node.cpp FingerTable.cpp --std=c++11 && ./chord.exe
 
